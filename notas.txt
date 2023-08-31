@@ -1,0 +1,4 @@
+git init - inicia repo vacio en el proyecto
+git add . agrega todos los archivos del proyecto al seguimiento de version
+git commit -m  "Comentario" sirve para crear un punto de restauracion 
+git remote add origin "url de github"
